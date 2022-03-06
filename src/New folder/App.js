@@ -1,3 +1,4 @@
+
 import './App.css';
 import Add from './components/addAmount/Add';
 import Details from './components/details/Details';
