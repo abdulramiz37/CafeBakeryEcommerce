@@ -1,0 +1,14 @@
+.btn-container{
+    box-shadow: 0 0 10px black;
+    width: 500px;
+    padding: 30px;
+    margin: 100px auto ;
+    text-align: center;
+}
+
+.mybtn{
+    background-color: coral;
+    border: none;
+    color: white;
+    padding: 10px;
+}

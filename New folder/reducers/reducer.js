@@ -2,7 +2,7 @@ const reducer = (state,action) => {
 
   if(state === undefined){
       return {
-          Amount:1000000,
+          Amount:10000000000000000000000000000000000000000000000000000000,
       };
    }
    switch (action.type) {
